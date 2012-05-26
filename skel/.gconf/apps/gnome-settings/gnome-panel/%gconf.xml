@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="history-gnome-run" mtime="1229722622" type="list" ltype="string">
+                <li type="string">
+                        <stringvalue>gnome-terminal</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>konsole</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>nm-applet</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>gnome-menu-spec-test</stringvalue>
+                </li>
+        </entry>
+</gconf>

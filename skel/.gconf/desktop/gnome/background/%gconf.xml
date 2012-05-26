@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="secondary_color" mtime="1307831608" type="string">
+		<stringvalue>#7f7f7f7f7f7f</stringvalue>
+	</entry>
+	<entry name="picture_filename" mtime="1307831591" type="string">
+		<stringvalue>/usr/share/backgrounds/sabayonlinux.png</stringvalue>
+	</entry>
+	<entry name="primary_color" mtime="1307831608" type="string">
+		<stringvalue>#000000000000</stringvalue>
+	</entry>
+	<entry name="color_shading_type" mtime="1307831609" type="string">
+		<stringvalue>solid</stringvalue>
+	</entry>
+	<entry name="picture_options" mtime="1307831600" type="string">
+		<stringvalue>scaled</stringvalue>
+	</entry>
+</gconf>

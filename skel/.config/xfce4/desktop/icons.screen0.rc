@@ -1,0 +1,20 @@
+[Donate to Sabayon]
+row=3
+col=0
+
+[Install to Hard Drive]
+row=1
+col=0
+
+[Get Live Help]
+row=2
+col=0
+
+[Trash]
+row=4
+col=0
+
+[Home]
+row=0
+col=0
+

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="history_date_filter" mtime="1137957447" type="string">
+                <stringvalue>ever</stringvalue>
+        </entry>
+</gconf>

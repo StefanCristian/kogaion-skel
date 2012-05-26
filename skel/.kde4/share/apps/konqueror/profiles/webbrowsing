@@ -1,0 +1,33 @@
+[Profile]
+Height=80%
+Height 900=637
+Name=Web Browsing
+RootItem=View0
+State=AAAA/wAAAAD9AAAAAAAAA4sAAAI5AAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHgBsAG8AYwBhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAEL/////wAAAAAAAAAAAAAAAgAAAAIAAAAeAGIAbwBvAGsAbQBhAHIAawBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAWAGgAdABtAGwAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+View0_ServiceName=konq_aboutpage
+View0_ServiceType=KonqAboutPage
+View0_URL=about:konqueror
+Width=80%
+Width 1440=907
+XMLUIFile=konqueror.rc
+
+[Profile][Toolbar bookmarkToolBar]
+Hidden=true
+IconSize=16
+Index=3
+ToolButtonStyle=TextBesideIcon
+
+[Profile][Toolbar extraToolBar]
+Index=1
+ToolButtonStyle=TextBesideIcon
+
+[Profile][Toolbar htmlToolBar]
+Index=4
+ToolButtonStyle=IconOnly
+
+[Profile][Toolbar locationToolBar]
+Index=2
+ToolButtonStyle=IconOnly
+
+[Profile][Toolbar mainToolBar]
+Index=0

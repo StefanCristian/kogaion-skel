@@ -1,0 +1,11 @@
+[InactiveShadow]
+Size=60
+
+[Style]
+DrawToolBarItemSeparator=true
+DrawTriangularExpander=false
+
+[Windeco]
+CenterTitleOnFullWidth=false
+TitleAlignment=Left
+UseOxygenShadows=false

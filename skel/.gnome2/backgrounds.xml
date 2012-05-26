@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Sabayon Offical</name>
+    <filename>/usr/share/backgrounds/sabayonlinux.png</filename>
+    <options>stretched</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#767684848f8f</pcolor>
+    <scolor>#7f7f7f7f7f7f</scolor>
+  </wallpaper>
+</wallpapers>

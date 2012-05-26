@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="minimum_font_size_x-western" mtime="1137957438" type="int" value="1">
+        </entry>
+        <entry name="fixed_font_size_x-western" mtime="1137957438" type="int" value="1">
+        </entry>
+        <entry name="variable_font_size_x-western" mtime="1137957438" type="int" value="1">
+        </entry>
+        <entry name="font_monospace_x-western" mtime="1137957434" type="string">
+                <stringvalue>monospace</stringvalue>
+        </entry>
+        <entry name="font_variable_x-western" mtime="1137957434" type="string">
+                <stringvalue>sans-serif</stringvalue>
+        </entry>
+</gconf>

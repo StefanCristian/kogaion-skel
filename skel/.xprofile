@@ -1,0 +1,7 @@
+# IME and non-roman fonts support
+# see Sabayon bug #2518
+if [ -x "/usr/bin/ibus-setup" ]; then
+	export GTK_IM_MODULE=ibus
+	export XMODIFIERS=@im=ibus
+	export QT_IM_MODULE=xim
+fi

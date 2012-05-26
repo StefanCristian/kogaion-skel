@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="cursor_size" mtime="1307831450" type="int" value="16"/>
+	<entry name="cursor_theme" mtime="1307831450" type="string">
+		<stringvalue>whiteglass</stringvalue>
+	</entry>
+</gconf>

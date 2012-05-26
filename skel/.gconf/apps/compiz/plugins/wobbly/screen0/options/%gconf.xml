@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="release_spring_k" mtime="1153565173" type="float" value="8">
+        </entry>
+        <entry name="visual_bell_spring_k" mtime="1153565173" type="float" value="8">
+        </entry>
+        <entry name="visual_bell_friction" mtime="1153565173" type="float" value="3">
+        </entry>
+        <entry name="map_effect" mtime="1153565173" type="string">
+                <stringvalue>None</stringvalue>
+        </entry>
+        <entry name="maximize_spring_k" mtime="1153565173" type="float" value="0.30000001192092896">
+        </entry>
+        <entry name="maximize_friction" mtime="1153565173" type="float" value="0.80000001192092896">
+        </entry>
+        <entry name="maximize_effect" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="focus_spring_k" mtime="1153565173" type="float" value="8">
+        </entry>
+        <entry name="map_spring_k" mtime="1153565173" type="float" value="0.30000001192092896">
+        </entry>
+        <entry name="map_friction" mtime="1153565173" type="float" value="0.80000001192092896">
+        </entry>
+        <entry name="min_grid_size" mtime="1153565173" type="int" value="8">
+        </entry>
+        <entry name="grid_resolution" mtime="1229722328" type="int" value="24">
+        </entry>
+</gconf>

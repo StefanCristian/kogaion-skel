@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=VolWheel
+GenericName=VolWheel
+Comment=Easy sound volume adjustment
+Exec=volwheel
+Icon=volwheel
+StartupNotify=false
+Type=Application
+OnlyShowIn=LXDE;

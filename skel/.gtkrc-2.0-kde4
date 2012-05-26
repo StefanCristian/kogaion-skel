@@ -1,0 +1,14 @@
+# File created by Chakra Gtk Config
+# Configs for GTK2 progrmans 
+
+include "/usr/share/themes/oxygen-gtk/gtk-2.0/gtkrc"
+include "/etc/gtk-2.0/gtkrc"
+style "user-font" 
+{
+	font_name="Bitstream Vera Sans"
+}
+widget_class "*" style "user-font"
+gtk-font-name="Bitstream Vera Sans 10"
+gtk-theme-name="oxygen-gtk"
+gtk-icon-theme-name="oxygen-refit-2-2.5.0"
+gtk-fallback-icon-theme="oxygen-refit-2-2.5.0"

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="disable_sysconfig_changed_warning" mtime="1154271122" type="bool" value="true">
+        </entry>
+        <entry name="defaultGroup" mtime="1127134027" type="int" value="-1">
+        </entry>
+</gconf>

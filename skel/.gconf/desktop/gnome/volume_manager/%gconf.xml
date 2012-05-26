@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="autobrowse" mtime="1210149835" type="bool" value="false">
+        </entry>
+        <entry name="automount_drives" mtime="1210149947" type="bool" value="true">
+        </entry>
+        <entry name="automount_media" mtime="1210149834" type="bool" value="true">
+        </entry>
+</gconf>

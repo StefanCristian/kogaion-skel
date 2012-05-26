@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="default_profile" mtime="1237125072" type="string">
+                <stringvalue>Default</stringvalue>
+        </entry>
+        <entry name="confirm_window_close" mtime="1237125072" type="bool" value="false"/>
+</gconf>
+

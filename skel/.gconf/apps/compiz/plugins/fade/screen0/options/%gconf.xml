@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="urgent_center" mtime="1153565173" type="int" value="70">
+        </entry>
+        <entry name="urgent_count" mtime="1153565173" type="int" value="5">
+        </entry>
+        <entry name="urgent_swing" mtime="1153565173" type="int" value="20">
+        </entry>
+        <entry name="urgent_speed" mtime="1153565173" type="int" value="15">
+        </entry>
+        <entry name="urgent" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="fullscreen_visual_bell" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="visual_bell" mtime="1150501652" type="bool" value="false">
+        </entry>
+</gconf>

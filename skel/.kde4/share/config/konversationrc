@@ -1,0 +1,68 @@
+[$Version]
+update_info=konversation.upd:1.1-rememberline,konversation.upd:1.1-markerlines,konversation.upd:0.20-customfonts,konversation.upd:0.20-quickbuttons,konversation.upd:0.19-notifylists,konversation.upd:0.19-appearance,konversation.upd:0.19-browser,konversation.upd:0.19-flags,konversation.upd:0.19-highlightcolors,konversation.upd:0.19-osdcolors,konversation.upd:0.19-sortorder,konversation.upd:0.19-colors,konversation.upd:0.19-generaloptions,konversation.upd:0.19-cleanup-themes,konversation.upd:0.19-cleanup-notifylist,konversation.upd:0.19-cleanup-dcc,konversation.upd:0.19-cleanup-colors,konversation.upd:0.19-cleanup-hilightlist,konversation.upd:0.19-cleanup-notificationmessages,konversation.upd:0.19-cleanup-ledcolors,konversation.upd:0.19-cleanup-kmditaskbar,konversation.upd:0.19-channelsplitter
+
+[Aliases]
+AliasList=bug /exec bug,cmd /exec cmd,fortune /exec fortune,gauge /exec gauge,kdeversion /exec kdeversion,mail /exec mail,media /exec media,audio /exec media audio,video /exec media video,sayclip /exec sayclip,sysinfo /exec sysinfo,tinyurl /exec tinyurl,uptime /exec uptime
+
+[Appearance]
+ChannelSplitterSizes=575,122
+TopicSplitterSizes=24,380
+
+[Channel 0]
+EnableNotifications=true
+Name=#sabayon
+Password=
+
+[DCC Settings]
+PanelSplitter=AAAA/wAAAAAAAAACAAAFQAAAAO8BAAAAAwEAAAAC
+
+[Flags]
+ShowServerList=false
+
+[Identity 0]
+AutomaticAway=false
+AutomaticUnaway=false
+AwayInactivity=10
+AwayMessage=/me is away: %s
+AwayNick=
+Bot=
+Codec=UTF-8
+Ident=sabayonuser
+InsertRememberLineOnAway=false
+KickReason=User terminated!
+Name=Default Identity
+Nicknames=sabayonuser,sabayonuser_,sabayonuser__
+PartReason=Konversation terminated!
+Password=
+PreShellCommand=
+QuitReason=Konversation terminated!
+Realname=Sabayon User
+ReturnMessage=/me is back.
+ShowAwayMessage=false
+
+[MainWindow]
+Height 968=500
+State=AAAA/wAAAAD9AAAAAAAAArwAAAHMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1352=700
+
+[Server 0]
+Password=
+Port=8001
+SSLEnabled=false
+Server=chat.freenode.net
+
+[ServerGroup 0]
+AutoConnect=true
+AutoJoinChannels=Channel 0
+ChannelHistory=Channel 1,Channel 2
+ConnectCommands=
+EnableNotifications=true
+Expanded=false
+Identity=Default Identity
+Name=Freenode
+NotifyList=
+ServerList=Server 0
+
+[ServerListDialog]
+Size=676,387

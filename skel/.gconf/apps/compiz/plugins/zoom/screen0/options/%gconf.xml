@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="step" mtime="1153565173" type="float" value="2">
+        </entry>
+        <entry name="timestep" mtime="1153565173" type="float" value="1.2000000476837158">
+        </entry>
+        <entry name="speed" mtime="1153565173" type="float" value="1.5">
+        </entry>
+        <entry name="min" mtime="1153565173" type="float" value="0.099999994039535522">
+        </entry>
+</gconf>

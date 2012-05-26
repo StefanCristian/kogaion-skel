@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="next_slide_key" mtime="1229722713" type="string">
+                <stringvalue>Disabled</stringvalue>
+        </entry>
+</gconf>

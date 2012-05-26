@@ -1,0 +1,116 @@
+{
+   "backup": {
+      "_signature": "Uk2cmJLjHT5sN6ONLZhohmNInEvGnWZvZqoN4K9vjJw=",
+      "_version": 2,
+      "browser": {
+         "show_home_button": true
+      },
+      "extensions": {
+         "ids": [ "ahfgeienlihckogmohjhadlkjgocpleb" ]
+      },
+      "homepage": "http://sabayon.org/",
+      "homepage_is_newtabpage": false,
+      "session": {
+         "restore_on_startup": 4,
+		 "urls_to_restore_on_startup": [ "http://sabayon.org/", "https://forum.sabayon.org/" ]
+      }
+   },
+   "browser": {
+      "clear_lso_data_enabled": true,
+      "show_home_button": true,
+      "window_placement": {
+         "bottom": 815,
+         "left": 0,
+         "maximized": false,
+         "right": 1050,
+         "top": 0,
+         "work_area_bottom": 842,
+         "work_area_left": 0,
+         "work_area_right": 1399,
+         "work_area_top": 0
+      }
+   },
+   "cloud_print": {
+      "email": ""
+   },
+   "countryid_at_install": 21843,
+   "default_apps_install_state": 1,
+   "default_search_provider": {
+      "enabled": true,
+      "encodings": "UTF-8",
+      "icon_url": "http://www.google.com/favicon.ico",
+      "id": "2",
+      "instant_url": "{google:baseURL}webhp?{google:RLZ}sourceid=chrome-instant&{google:instantFieldTrialGroupParameter}ie={inputEncoding}{google:instantEnabledParameter}{searchTerms}",
+      "keyword": "google.co.uk",
+      "name": "Google",
+      "prepopulate_id": "1",
+      "search_url": "{google:baseURL}search?{google:RLZ}{google:acceptedSuggestion}{google:originalQueryForSuggestion}{google:searchFieldtrialParameter}{google:instantFieldTrialGroupParameter}sourceid=chrome&ie={inputEncoding}&q={searchTerms}",
+      "suggest_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}{google:instantFieldTrialGroupParameter}client=chrome&hl={language}&q={searchTerms}"
+   },
+   "dns_prefetching": {
+      "host_referral_list": [ 2, [ "http://googleads.g.doubleclick.net/", [ "http://googleads.g.doubleclick.net/", 3.7046741282663302, "http://pagead2.googlesyndication.com/", 3.7046741282663302, "https://www.google.com/", 3.7046741282663302 ] ], [ "http://konac.kontera.com/", [ "http://images.kontera.com/", 2.4575561048895462 ] ], [ "http://pastebin.sabayon.org/", [ "http://b.scorecardresearch.com/", 1.82776150308427, "http://kona5.kontera.com/", 1.6219870292271006, "http://konac.kontera.com/", 1.6219870292271006, "http://pastebin.sabayon.org/", 2.856633872370117, "http://static.sabayon.org/", 3.268182820084456, "http://tags.bluekai.com/", 2.03353597694144, "http://www.bkrtx.com/", 1.4162125553699314, "http://www.facebook.com/", 1.6219870292271006, "http://www.google-analytics.com/", 1.6219870292271006, "https://static.sabayon.org/", 2.239310450798609 ] ], [ "http://tags.bluekai.com/", [ "http://cm.g.doubleclick.net/", 2.4575561048895462, "http://i.w55c.net/", 2.1457765990453503, "http://r.nexac.com/", 2.1457765990453503, "http://tacoda.at.atwola.com/", 2.1457765990453503, "http://tags.bluekai.com/", 3.0811151165779385 ] ], [ "http://www.facebook.com/", [ "http://static.ak.fbcdn.net/", 2.4575561048895462 ] ] ],
+      "startup_list": [ 1 ]
+   },
+   "download": {
+      "directory_upgrade": true,
+      "extensions_to_open": ""
+   },
+   "extensions": {
+      "autoupdate": {
+         "next_check": "12982206601419321"
+      },
+      "chrome_url_overrides": {
+         "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
+      },
+      "settings": {
+         "ahfgeienlihckogmohjhadlkjgocpleb": {
+            "active_permissions": {
+               "api": [ "appNotifications", "management", "webstorePrivate" ]
+            },
+            "app_launcher_ordinal": "n",
+            "page_ordinal": "n"
+         }
+      },
+      "theme": {
+         "id": "",
+         "use_system": true
+      }
+   },
+   "homepage": "http://sabayon.org/",
+   "homepage_changed": true,
+   "homepage_is_newtabpage": false,
+   "instant": {
+      "enabled_time": "12982205617449509"
+   },
+   "ntp": {
+      "app_page_names": [ "Apps" ],
+      "promo_build": 11,
+      "promo_closed": false,
+      "promo_end": 1333353540.0,
+      "promo_feature_mask": 0,
+      "promo_group": 81,
+      "promo_group_max": 99,
+      "promo_group_timeslice": 0,
+      "promo_is_logged_in_to_plus": false,
+      "promo_line": "\u003Cb\u003ENew!\u003C/b\u003E Browse the web with twice the mice. \u003Ca href=\"http://google.com/chrome/multitask\"\u003ETry Chrome Multitask Mode\u003C/a\u003E",
+      "promo_platform": 15,
+      "promo_resource_cache_update": "1337732022.498528",
+      "promo_start": 1333267260.0,
+      "promo_views": 0,
+      "promo_views_max": 15
+   },
+   "plugins": {
+      "enabled_internal_pdf3": true,
+      "enabled_nacl": true
+   },
+   "profile": {
+      "avatar_index": 0,
+      "content_settings": {
+         "pref_version": 1
+      },
+      "created_by_version": "19.0.1084.30",
+      "exited_cleanly": true,
+      "local_profile_id": 12792485,
+      "name": "First user"
+   }
+}

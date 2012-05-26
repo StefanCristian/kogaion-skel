@@ -1,0 +1,7 @@
+[General]
+exclude filters=po,CVS,.svn,.git,core-dumps,lost+found,.*,*~,*.part,*.o,*.la,*.lo,*.loT,*.in,*.csproj,*.m4,*.rej,*.gmo,*.orig,*.pc,*.omf,*.aux,*.tmp,*.po,*.vm*,*.nvram,*.rcore,lzo,autom4te,conftest,confstat,Makefile,SCCS,litmain.sh,libtool,config.status,confdefs.h,CMakeFiles,cmake_install.cmake,CTestTestfile.cmake,*.moc,moc_*.cpp
+exclude folders[$e]=
+first run=false
+folders[$e]=$HOME
+index hidden folders=false
+index newly mounted=false

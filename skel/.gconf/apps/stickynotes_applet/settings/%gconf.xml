@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="force_default" mtime="1212959128" type="bool" value="false">
+        </entry>
+        <entry name="sticky" mtime="1212959128" type="bool" value="true">
+        </entry>
+        <entry name="use_system_font" mtime="1212959128" type="bool" value="true">
+        </entry>
+        <entry name="use_system_color" mtime="1212959128" type="bool" value="true">
+        </entry>
+</gconf>

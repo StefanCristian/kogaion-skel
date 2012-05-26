@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="stretch" mtime="1212958853" schema="/schemas/apps/panel/toplevels/background/stretch"/>
+	<entry name="rotate" mtime="1212958853" schema="/schemas/apps/panel/toplevels/background/rotate"/>
+	<entry name="opacity" mtime="1212960172" schema="/schemas/apps/panel/toplevels/background/opacity" type="int" value="33088"/>
+	<entry name="color" mtime="1212958853" schema="/schemas/apps/panel/toplevels/background/color"/>
+	<entry name="fit" mtime="1212958853" schema="/schemas/apps/panel/toplevels/background/fit"/>
+	<entry name="type" mtime="1244414004" schema="/schemas/apps/panel/toplevels/background/type" type="string">
+		<stringvalue>none</stringvalue>
+	</entry>
+</gconf>

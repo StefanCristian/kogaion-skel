@@ -1,0 +1,10 @@
+[Basic Settings]
+Start Nepomuk=true
+
+[Service-nepomukstrigiservice]
+autostart=false
+
+[main Settings]
+Maximum memory=50
+Storage Dir[$e]=$HOME/.kde4/share/apps/nepomuk/repository/main/
+Used Soprano Backend=virtuosobackend

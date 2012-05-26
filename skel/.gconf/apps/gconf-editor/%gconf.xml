@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="recents" mtime="1212960090" type="list" ltype="string">
+                <li type="string">
+                        <stringvalue>/apps/nautilus/preferences/media_automount_open</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>/apps/nautilus/preferences/media_automount</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>/apps/nautilus/desktop/volumes_visible</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>/apps/nautilus/desktop/computer_icon_visible</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>/apps/nautilus/desktop/home_icon_visible</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>/apps/nautilus/desktop/trash_icon_visible</stringvalue>
+                </li>
+        </entry>
+</gconf>

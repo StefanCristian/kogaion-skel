@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="show_desktop" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="opacity" mtime="1153565173" type="int" value="75">
+        </entry>
+        <entry name="spacing" mtime="1153565173" type="int" value="10">
+        </entry>
+        <entry name="timestep" mtime="1153565173" type="float" value="1.2000000476837158">
+        </entry>
+        <entry name="speed" mtime="1153565173" type="float" value="1.5">
+        </entry>
+        <entry name="sloppy_focus" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="darken_back" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="darken_back_factor" mtime="1153565173" type="float" value="0.66999995708465576">
+        </entry>
+</gconf>

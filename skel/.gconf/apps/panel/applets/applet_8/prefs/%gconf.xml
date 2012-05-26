@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="netload2_color0" mtime="1244413476" schema="/schemas/apps/multiload/prefs/netload2_color0"/>
+	<entry name="system_monitor" mtime="1229722313" schema="/schemas/apps/multiload/prefs/system_monitor"/>
+	<entry name="diskload_color0" mtime="1229722313" schema="/schemas/apps/multiload/prefs/diskload_color0"/>
+	<entry name="cpuload_color2" mtime="1229722313" schema="/schemas/apps/multiload/prefs/cpuload_color2"/>
+	<entry name="netload_color4" mtime="1229722313" schema="/schemas/apps/multiload/prefs/netload_color4"/>
+	<entry name="cpuload_color1" mtime="1229722313" schema="/schemas/apps/multiload/prefs/cpuload_color1"/>
+	<entry name="netload_color3" mtime="1229722313" schema="/schemas/apps/multiload/prefs/netload_color3"/>
+	<entry name="cpuload_color0" mtime="1229722313" schema="/schemas/apps/multiload/prefs/cpuload_color0"/>
+	<entry name="view_diskload" mtime="1229722313" schema="/schemas/apps/multiload/prefs/view_diskload"/>
+	<entry name="swapload_color1" mtime="1229722313" schema="/schemas/apps/multiload/prefs/swapload_color1"/>
+	<entry name="netload_color2" mtime="1229722313" schema="/schemas/apps/multiload/prefs/netload_color2"/>
+	<entry name="swapload_color0" mtime="1229722313" schema="/schemas/apps/multiload/prefs/swapload_color0"/>
+	<entry name="netload_color1" mtime="1229722313" schema="/schemas/apps/multiload/prefs/netload_color1"/>
+	<entry name="size" mtime="1229722313" schema="/schemas/apps/multiload/prefs/size"/>
+	<entry name="loadavg_color1" mtime="1229722313" schema="/schemas/apps/multiload/prefs/loadavg_color1"/>
+	<entry name="netload_color0" mtime="1229722313" schema="/schemas/apps/multiload/prefs/netload_color0"/>
+	<entry name="loadavg_color0" mtime="1229722313" schema="/schemas/apps/multiload/prefs/loadavg_color0"/>
+	<entry name="memload_color4" mtime="1229722313" schema="/schemas/apps/multiload/prefs/memload_color4"/>
+	<entry name="view_cpuload" mtime="1229722313" schema="/schemas/apps/multiload/prefs/view_cpuload"/>
+	<entry name="memload_color3" mtime="1229722313" schema="/schemas/apps/multiload/prefs/memload_color3"/>
+	<entry name="speed" mtime="1229722313" schema="/schemas/apps/multiload/prefs/speed"/>
+	<entry name="view_swapload" mtime="1229722313" schema="/schemas/apps/multiload/prefs/view_swapload"/>
+	<entry name="memload_color2" mtime="1229722313" schema="/schemas/apps/multiload/prefs/memload_color2"/>
+	<entry name="view_netload" mtime="1229722313" schema="/schemas/apps/multiload/prefs/view_netload"/>
+	<entry name="view_memload" mtime="1229722313" schema="/schemas/apps/multiload/prefs/view_memload"/>
+	<entry name="diskload_color2" mtime="1229722313" schema="/schemas/apps/multiload/prefs/diskload_color2"/>
+	<entry name="memload_color1" mtime="1229722313" schema="/schemas/apps/multiload/prefs/memload_color1"/>
+	<entry name="cpuload_color4" mtime="1229722313" schema="/schemas/apps/multiload/prefs/cpuload_color4"/>
+	<entry name="diskload_color1" mtime="1229722313" schema="/schemas/apps/multiload/prefs/diskload_color1"/>
+	<entry name="memload_color0" mtime="1229722313" schema="/schemas/apps/multiload/prefs/memload_color0"/>
+	<entry name="cpuload_color3" mtime="1229722313" schema="/schemas/apps/multiload/prefs/cpuload_color3"/>
+	<entry name="view_loadavg" mtime="1229722313" schema="/schemas/apps/multiload/prefs/view_loadavg"/>
+</gconf>

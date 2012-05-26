@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="max_icon_size" mtime="1153565173" type="int" value="64">
+        </entry>
+        <entry name="icon_corner" mtime="1153565173" type="int" value="0">
+        </entry>
+        <entry name="zoom" mtime="1153565173" type="float" value="1">
+        </entry>
+        <entry name="icon" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="bring_to_front" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="minimized" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="mipmap" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="timestep" mtime="1153565173" type="float" value="1.2000000476837158">
+        </entry>
+        <entry name="speed" mtime="1153565173" type="float" value="1.5">
+        </entry>
+        <entry name="saturation" mtime="1153565173" type="int" value="100">
+        </entry>
+        <entry name="brightness" mtime="1153565173" type="int" value="65">
+        </entry>
+        <entry name="opacity" mtime="1153565173" type="int" value="40">
+        </entry>
+</gconf>

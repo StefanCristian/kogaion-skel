@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="use_system_keyboard_layout" mtime="1263520461" type="bool" value="true"/>
+	<entry name="preload_engines" mtime="1317562293" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>anthy</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>pinyin</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>m17n:ko:romaja</stringvalue>
+		</li>
+	</entry>
+</gconf>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="default_icon" mtime="1153565173" type="string">
+                <stringvalue>/usr/share/compiz/icon.png</stringvalue>
+        </entry>
+        <entry name="refresh_rate" mtime="1153565173" type="int" value="50">
+        </entry>
+        <entry name="opacity_step" mtime="1153565173" type="int" value="10">
+        </entry>
+        <entry name="lighting" mtime="1153565173" type="bool" value="true">
+        </entry>
+</gconf>

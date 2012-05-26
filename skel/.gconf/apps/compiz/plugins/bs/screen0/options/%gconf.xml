@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="saturation_step" mtime="1153565173" type="int" value="5">
+        </entry>
+        <entry name="brightness_step" mtime="1153565173" type="int" value="5">
+        </entry>
+</gconf>

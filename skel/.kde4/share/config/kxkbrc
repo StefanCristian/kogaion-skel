@@ -1,0 +1,11 @@
+[Layout]
+DisplayNames=us
+IndicatorOnly=false
+LayoutList=us
+Model=pc104
+Options=
+ResetOldOptions=true
+ShowFlag=true
+ShowSingle=true
+SwitchMode=Global
+Use=true

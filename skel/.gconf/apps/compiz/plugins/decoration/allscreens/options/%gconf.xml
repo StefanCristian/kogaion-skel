@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="command" mtime="1229722713" type="string">
+                <stringvalue>emerald --replace</stringvalue>
+        </entry>
+        <entry name="active_button_alpha" mtime="1153565173" type="float" value="0.75">
+        </entry>
+        <entry name="use_new_decor" mtime="1153565173" type="bool" value="false">
+        </entry>
+        <entry name="shadow_offset_y" mtime="1153565173" type="int" value="1">
+        </entry>
+        <entry name="shadow_offset_x" mtime="1153565173" type="int" value="1">
+        </entry>
+        <entry name="shadow_opacity" mtime="1153565173" type="float" value="0.5">
+        </entry>
+        <entry name="inactive_title_inner_alpha" mtime="1153563775" type="float" value="0.39999997615814209">
+        </entry>
+        <entry name="active_title_inner_alpha" mtime="1153563775" type="float" value="0.59999996423721313">
+        </entry>
+        <entry name="inactive_title_outer_alpha" mtime="1153563775" type="float" value="0.39999997615814209">
+        </entry>
+        <entry name="active_title_outer_alpha" mtime="1153563775" type="float" value="0.59999996423721313">
+        </entry>
+        <entry name="inactive_window_shadow_alpha" mtime="1153563775" type="float" value="0.39999997615814209">
+        </entry>
+        <entry name="active_window_shadow_alpha" mtime="1153563775" type="float" value="0.39999997615814209">
+        </entry>
+        <entry name="inactive_outer_alpha" mtime="1153565173" type="float" value="0.39999997615814209">
+        </entry>
+        <entry name="active_outer_alpha" mtime="1153565173" type="float" value="0.59999996423721313">
+        </entry>
+        <entry name="inactive_inner_alpha" mtime="1153565173" type="float" value="0.39999997615814209">
+        </entry>
+        <entry name="active_inner_alpha" mtime="1153565173" type="float" value="0.59999996423721313">
+        </entry>
+</gconf>

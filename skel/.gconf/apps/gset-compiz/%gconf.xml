@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="version" mtime="1150501664" type="bool" value="true">
+        </entry>
+        <entry name="preview" mtime="1150501679" type="int" value="0">
+        </entry>
+        <entry name="toolbar" mtime="1150501664" type="bool" value="true">
+        </entry>
+</gconf>

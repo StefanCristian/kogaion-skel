@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="keybinding" mtime="1212958969" type="string">
+                <stringvalue>&lt;Alt&gt;F3</stringvalue>
+        </entry>
+</gconf>

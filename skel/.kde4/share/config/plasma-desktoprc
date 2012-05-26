@@ -1,0 +1,57 @@
+[$Version]
+update_info=plasma_popupapplet_fix_groups.upd:PlasmaPopupAppletFixGroups2
+
+[Applet Browser]
+used=,notifier,folderview,systemtray,digital-clock,tasks,pager,launcher,networkmanagement
+
+[Colors]
+CurrentPalette=Forty Colors
+
+[DownloadDialog Settings]
+Height 768=400
+Width 1024=700
+
+[KFileDialog Settings]
+Height 768=450
+Height 900=450
+Recent Files[$e]=sabayonlinux.png,/usr/share/backgrounds/sabayonlinux.png
+Width 1024=700
+Width 1440=700
+
+[KPropertiesDialog]
+Height 768=385
+Width 1024=405
+
+[PlasmaAppletBrowserDialog]
+Height 768=599
+Height 900=599
+Width 1024=409
+Width 1440=404
+
+[PlasmaViews][10]
+Offset=0
+panelVisibility=0
+
+[PlasmaViews][2]
+Alignment=132
+Offset=0
+panelVisibility=0
+
+[PlasmaViews][5]
+Offset=0
+panelVisibility=0
+
+[PlasmaViews][6]
+Offset=0
+panelVisibility=0
+
+[PlasmaViews][9]
+Offset=0
+panelVisibility=0
+
+[ViewIds]
+14=7
+15=4
+16=5
+17=8
+3=9

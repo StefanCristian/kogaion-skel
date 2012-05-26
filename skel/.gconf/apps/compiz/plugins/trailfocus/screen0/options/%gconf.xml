@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="maximum_window_saturation_level" mtime="1153565173" type="int" value="100">
+        </entry>
+        <entry name="minimum_window_brightness_level" mtime="1153565173" type="int" value="50">
+        </entry>
+        <entry name="maximum_window_brightness_level" mtime="1153565173" type="int" value="100">
+        </entry>
+        <entry name="minimum_window_opacity_level" mtime="1153565173" type="int" value="100">
+        </entry>
+        <entry name="maximum_window_opacity_level" mtime="1153565173" type="int" value="100">
+        </entry>
+        <entry name="maximum_trail_count" mtime="1153565173" type="int" value="6">
+        </entry>
+</gconf>

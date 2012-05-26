@@ -1,0 +1,7 @@
+number=1
+
+[0]
+description=Shockwave Flash 10.0 r32
+file=libflashplayer.so
+mime=application/x-shockwave-flash:swf:Shockwave Flash;application/futuresplash:spl:FutureSplash Player;
+name=Shockwave Flash

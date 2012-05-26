@@ -1,0 +1,2 @@
+include "/usr/share/themes/Equinox Evolution Light/gtk-2.0/gtkrc"
+include "/etc/gtk-2.0/gtkrc"

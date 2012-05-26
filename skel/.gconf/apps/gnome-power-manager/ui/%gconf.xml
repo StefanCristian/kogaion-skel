@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="icon_policy" mtime="1212959849" type="string">
+                <stringvalue>always</stringvalue>
+        </entry>
+        <entry name="enable_sound" mtime="1212959844" type="bool" value="true">
+        </entry>
+</gconf>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="edge_flip_move" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="edge_flip_dnd" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="timestep" mtime="1229722713" type="float" value="1.2000000476837158">
+        </entry>
+        <entry name="flip_time" mtime="1153565173" type="int" value="0">
+        </entry>
+</gconf>

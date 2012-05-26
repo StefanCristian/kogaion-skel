@@ -1,0 +1,15 @@
+[gtkui]
+player_x=460
+player_y=249
+
+[gtkui-layout]
+item_count=0
+
+[skins]
+equalizer_x=1405
+equalizer_y=1021
+player_x=1405
+player_y=905
+playlist_x=1680
+playlist_y=905
+skin=/usr/share/audacious/Skins/Default

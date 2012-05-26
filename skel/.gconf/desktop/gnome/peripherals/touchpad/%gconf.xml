@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="scroll_method" mtime="1259425279" type="int" value="1"/>
+	<entry name="tap_to_click" mtime="1259425262" type="bool" value="true"/>
+</gconf>

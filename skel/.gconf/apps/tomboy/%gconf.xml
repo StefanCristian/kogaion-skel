@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="start_note" mtime="1244413489" type="string">
+		<stringvalue>note://tomboy/e380de75-dd8e-4918-a35c-564aeed64be4</stringvalue>
+	</entry>
+</gconf>

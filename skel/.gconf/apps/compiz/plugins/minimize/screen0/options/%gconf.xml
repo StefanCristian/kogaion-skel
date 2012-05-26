@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="zoom_created_windows" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="timestep" mtime="1153565173" type="float" value="0.5">
+        </entry>
+        <entry name="speed" mtime="1153565173" type="float" value="1.5">
+        </entry>
+</gconf>

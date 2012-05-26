@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="applet_id_list" mtime="1244413964" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>applet_2</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>mixer_screen0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>show_desktop_button_screen0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>window_list_screen0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>workspace_switcher_screen0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_3</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_4</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_5</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_6</stringvalue>
+		</li>
+	</entry>
+	<entry name="object_id_list" mtime="1244413964" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>object_1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>object_0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>object_2</stringvalue>
+		</li>
+	</entry>
+	<entry name="toplevel_id_list" mtime="1244413964" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>bottom_panel_screen0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>panel_0</stringvalue>
+		</li>
+	</entry>
+</gconf>

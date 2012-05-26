@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="click_to_focus" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="autoraise_delay" mtime="1153565173" type="int" value="1000">
+        </entry>
+        <entry name="autoraise" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="raise_on_click" mtime="1153565173" type="bool" value="true">
+        </entry>
+        <entry name="texture_filter" mtime="1153565173" type="string">
+                <stringvalue>Good</stringvalue>
+        </entry>
+        <entry name="active_plugins" mtime="1229722743" type="list" ltype="string">
+                <li type="string">
+                        <stringvalue>core</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>decoration</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>minimize</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>place</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>png</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>resize</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>water</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>wobbly</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>zoom</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>fade</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>move</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>cube</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>rotate</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>scale</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>switcher</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>cubeaddon</stringvalue>
+                </li>
+        </entry>
+        <entry name="audible_bell" mtime="1153565173" type="bool" value="true">
+        </entry>
+</gconf>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="logout_option" mtime="1197976510" type="string">
+                <stringvalue>logout</stringvalue>
+        </entry>
+</gconf>
