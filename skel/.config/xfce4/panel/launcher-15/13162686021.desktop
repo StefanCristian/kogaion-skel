@@ -2,9 +2,7 @@
 [Desktop Entry]
 Version=1.0
 Name=Application Finder
-Name[pl]=Wyszukiwanie programów
 Comment=Find and launch applications installed on your system
-Comment[pl]=Wyszukuje i uruchamia programy zainstalowane w systemie
 Exec=xfce4-appfinder
 Icon=xfce4-appfinder
 StartupNotify=true
