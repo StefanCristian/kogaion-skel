@@ -4,23 +4,33 @@
   <property name="backdrop" type="empty">
     <property name="screen0" type="empty">
       <property name="monitor0" type="empty">
-        <property name="image-path" type="string" value="/usr/share/backgrounds/sabayonlinux.png"/>
-        <property name="last-image" type="string" value="/usr/share/backgrounds/sabayonlinux.png"/>
-        <property name="last-single-image" type="string" value="/usr/share/backgrounds/sabayonlinux.png"/>
+        <property name="brightness" type="empty"/>
+        <property name="color1" type="empty"/>
+        <property name="color2" type="empty"/>
+        <property name="color-style" type="empty"/>
+        <property name="image-path" type="string" value="/usr/share/backgrounds/rogentoslinux.png"/>
+        <property name="last-image" type="string" value="/usr/share/backgrounds/rogentoslinux.png"/>
+        <property name="last-single-image" type="string" value="/usr/share/backgrounds/rogentoslinux.png"/>
+        <property name="image-show" type="bool" value="true"/>
+        <property name="image-style" type="int" value="3"/>
+        <property name="last-image-list" type="string" value="/home/blacknoxis/.config/xfce4/desktop/backdrop.list"/>
       </property>
     </property>
   </property>
   <property name="desktop-icons" type="empty">
     <property name="file-icons" type="empty">
       <property name="show-filesystem" type="bool" value="false"/>
-      <property name="show-removable" type="bool" value="false"/>
+      <property name="show-removable" type="bool" value="true"/>
       <property name="show-home" type="bool" value="true"/>
     </property>
     <property name="use-custom-font-size" type="bool" value="true"/>
-    <property name="font-size" type="double" value="10.000000"/>
-    <property name="icon-size" type="uint" value="32"/>
+    <property name="font-size" type="double" value="7.000000"/>
+    <property name="icon-size" type="uint" value="18"/>
   </property>
   <property name="desktop-menu" type="empty">
-    <property name="show" type="bool" value="false"/>
+    <property name="show-home" type="bool" value="false"/>
+    <property name="show-filesystem" type="bool" value="false"/>
+    <property name="show-trash" type="bool" value="false"/>
+    <property name="show" type="bool" value="true"/>
   </property>
 </channel>
