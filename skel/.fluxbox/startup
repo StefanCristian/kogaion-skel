@@ -23,7 +23,7 @@
 # xset r rate 195 35
 #
 # Your own fonts-dir:
-# xset +fp /home/sabayonuser/.font
+# xset +fp /home/rogentos/.font
 #
 # Your favourite mouse cursor:
 # xsetroot -cursor_name right_ptr
