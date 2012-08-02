@@ -24,7 +24,7 @@
       <property name="show-home" type="bool" value="true"/>
     </property>
     <property name="use-custom-font-size" type="bool" value="true"/>
-    <property name="font-size" type="double" value="7.000000"/>
+    <property name="font-size" type="double" value="10.000000"/>
     <property name="icon-size" type="uint" value="32"/>
   </property>
   <property name="desktop-menu" type="empty">
