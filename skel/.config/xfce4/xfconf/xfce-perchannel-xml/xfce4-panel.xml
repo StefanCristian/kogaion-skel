@@ -49,7 +49,7 @@
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-1" type="string" value="applicationsmenu">
-      <property name="button-icon" type="string" value="start-here-sabayon"/>
+      <property name="button-icon" type="string" value="start-here-rogentos"/>
     </property>
     <property name="plugin-4" type="string" value="pager"/>
     <property name="plugin-5" type="string" value="clock">
