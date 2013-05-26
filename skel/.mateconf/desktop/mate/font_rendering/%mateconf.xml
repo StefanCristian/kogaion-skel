@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="dpi" mtime="1338976155" type="float" value="96"/>
+	<entry name="hinting" mtime="1338976150" type="string">
+		<stringvalue>medium</stringvalue>
+	</entry>
+	<entry name="antialiasing" mtime="1338976150" type="string">
+		<stringvalue>grayscale</stringvalue>
+	</entry>
+</mateconf>

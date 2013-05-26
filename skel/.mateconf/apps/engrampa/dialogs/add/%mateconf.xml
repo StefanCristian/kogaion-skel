@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="no_symlinks" mtime="1340627287" type="bool" value="false"/>
+	<entry name="recursive" mtime="1340627287" type="bool" value="true"/>
+	<entry name="update" mtime="1340627287" type="bool" value="false"/>
+	<entry name="exclude_folders" mtime="1340627287" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="exclude_files" mtime="1340627287" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="include_files" mtime="1340627287" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="filename" mtime="1340627287" type="string">
+		<stringvalue>file:///home/sabayonuser/.mateconf</stringvalue>
+	</entry>
+	<entry name="current_folder" mtime="1340627287" type="string">
+		<stringvalue>file:///home/sabayonuser</stringvalue>
+	</entry>
+</mateconf>

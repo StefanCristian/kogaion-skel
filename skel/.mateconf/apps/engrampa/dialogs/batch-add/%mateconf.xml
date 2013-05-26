@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="default_extension" mtime="1340627206" type="string">
+		<stringvalue>.tar</stringvalue>
+	</entry>
+</mateconf>

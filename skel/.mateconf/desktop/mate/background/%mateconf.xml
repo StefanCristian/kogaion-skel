@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="primary_color" mtime="1340626410" type="string">
+		<stringvalue>#333355559292</stringvalue>
+	</entry>
+	<entry name="picture_filename" mtime="1340626410" type="string">
+		<stringvalue>/usr/share/backgrounds/sabayonlinux.png</stringvalue>
+	</entry>
+	<entry name="secondary_color" mtime="1340626410" type="string">
+		<stringvalue>#43436767a5a5</stringvalue>
+	</entry>
+	<entry name="color_shading_type" mtime="1340626410" type="string">
+		<stringvalue>solid</stringvalue>
+	</entry>
+	<entry name="picture_options" mtime="1340626410" type="string">
+		<stringvalue>zoom</stringvalue>
+	</entry>
+</mateconf>

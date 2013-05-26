@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<mateconf>
+	<entry name="monospace_font_name" mtime="1338976174" type="string">
+		<stringvalue>Monospace 9</stringvalue>
+	</entry>
+	<entry name="document_font_name" mtime="1338976164" type="string">
+		<stringvalue>Sans 9</stringvalue>
+	</entry>
+	<entry name="font_name" mtime="1338976161" type="string">
+		<stringvalue>Sans 9</stringvalue>
+	</entry>
+	<entry name="icon_theme" mtime="1338970347" type="string">
+		<stringvalue>elementary</stringvalue>
+	</entry>
+	<entry name="gtk_theme" mtime="1338970275" type="string">
+		<stringvalue>Equinox Evolution Midnight</stringvalue>
+	</entry>
+</mateconf>
