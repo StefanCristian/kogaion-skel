@@ -4,7 +4,7 @@ kcminputrc_mouse_cursortheme="Oxygen_Black"
 # kcminputrc Mouse cursorSize ''
 kcminputrc_mouse_cursorsize=""
 # ksplashrc KSplash Theme Default
-ksplashrc_ksplash_theme="RogentOS"
+ksplashrc_ksplash_theme="Rogentos"
 # ksplashrc KSplash Engine KSplashX
 ksplashrc_ksplash_engine="KSplashX"
 # kcmrandrrc Display ApplyOnStartup false
