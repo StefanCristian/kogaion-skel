@@ -2,8 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Sabayon Offical</name>
-    <filename>/usr/share/backgrounds/sabayonlinux.png</filename>
+    <name>RogentOS Offical</name>
+    <filename>/usr/share/backgrounds/kogaionlinux.png</filename>
     <options>stretched</options>
     <shade_type>solid</shade_type>
     <pcolor>#767684848f8f</pcolor>
