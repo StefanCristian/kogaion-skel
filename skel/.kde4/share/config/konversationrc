@@ -10,7 +10,7 @@ TopicSplitterSizes=24,380
 
 [Channel 0]
 EnableNotifications=true
-Name=#sabayon
+Name=#rogentos-dezvoltare
 Password=
 
 [DCC Settings]
@@ -27,11 +27,11 @@ AwayMessage=/me is away: %s
 AwayNick=
 Bot=
 Codec=UTF-8
-Ident=sabayonuser
+Ident=rogentosuser
 InsertRememberLineOnAway=false
 KickReason=User terminated!
 Name=Default Identity
-Nicknames=sabayonuser,sabayonuser_,sabayonuser__
+Nicknames=rogentosuser,rogentosuser_,rogentosuser__
 PartReason=Konversation terminated!
 Password=
 PreShellCommand=

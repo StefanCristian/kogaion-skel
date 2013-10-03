@@ -38,9 +38,9 @@ selected:	-1
 
 textMode:	date
 textLiteral:	Sabayon Linux
-textFile:	/etc/sabayon-release
+textFile:	/etc/rogentos-release
 textProgram:	/usr/bin/fortune
-textURL:	http://www.sabayonlinux.org
+textURL:	http://rogentos.ro
 
 programs:								      \
 		 "Qix (solid)" 	qix -root -solid -segments 100		    \n\

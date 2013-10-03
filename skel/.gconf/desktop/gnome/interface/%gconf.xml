@@ -10,9 +10,9 @@
 		<stringvalue>DejaVu Sans 8</stringvalue>
 	</entry>
 	<entry name="icon_theme" mtime="1307831446" type="string">
-		<stringvalue>elementary</stringvalue>
+		<stringvalue>Kogaion-light</stringvalue>
 	</entry>
 	<entry name="gtk_theme" mtime="1307831432" type="string">
-		<stringvalue>Equinox Evolution</stringvalue>
+		<stringvalue>Faenza-Kupertino-light</stringvalue>
 	</entry>
 </gconf>
