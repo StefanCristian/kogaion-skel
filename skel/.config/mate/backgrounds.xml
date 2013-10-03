@@ -1,0 +1,324 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Gulp</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Gulp.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#62627f7f5a5a</pcolor>
+    <scolor>#272758587e7e</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Waves</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Waves.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Water.jpg</name>
+    <filename>/usr/share/backgrounds/Water.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Arc</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Arc-Colors-Transparent-Wallpaper.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Kogaion_light_1.png</name>
+    <filename>/usr/share/backgrounds/Kogaion_light_1.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Garden</name>
+    <filename>/usr/share/backgrounds/mate/nature/Garden.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Kogaion_pacman_wide.png</name>
+    <filename>/usr/share/backgrounds/Kogaion_pacman_wide.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Fuzzy_lines_blue_1.png</name>
+    <filename>/usr/share/backgrounds/Fuzzy_lines_blue_1.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>No Desktop Background</name>
+    <filename>(none)</filename>
+    <options>wallpaper</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Kogaion_blue_wide.png</name>
+    <filename>/usr/share/backgrounds/Kogaion_blue_wide.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Kogaion_flame_wide.png</name>
+    <filename>/usr/share/backgrounds/Kogaion_flame_wide.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Kogaion_tri_flame_wide.png</name>
+    <filename>/usr/share/backgrounds/Kogaion_tri_flame_wide.png</filename>
+    <options>stretched</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Spring</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Spring.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Green Traditional</name>
+    <filename>/usr/share/backgrounds/mate/desktop/GreenTraditional.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Kogaion_light_2.png</name>
+    <filename>/usr/share/backgrounds/Kogaion_light_2.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Circles.png</name>
+    <filename>/usr/share/backgrounds/Circles.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Dune</name>
+    <filename>/usr/share/backgrounds/mate/nature/Dune.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Rainbow.jpg</name>
+    <filename>/usr/share/backgrounds/Rainbow.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Two Wings</name>
+    <filename>/usr/share/backgrounds/mate/nature/TwoWings.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Fresh Flower</name>
+    <filename>/usr/share/backgrounds/mate/nature/FreshFlower.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Sunset1.jpg</name>
+    <filename>/usr/share/backgrounds/Sunset1.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Storm</name>
+    <filename>/usr/share/backgrounds/mate/nature/Storm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Circles_wide.png</name>
+    <filename>/usr/share/backgrounds/Circles_wide.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Blinds</name>
+    <filename>/usr/share/backgrounds/mate/nature/Blinds.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Kogaion_blue_flame_wide.png</name>
+    <filename>/usr/share/backgrounds/Kogaion_blue_flame_wide.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Sea.jpg</name>
+    <filename>/usr/share/backgrounds/Sea.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Wood</name>
+    <filename>/usr/share/backgrounds/mate/nature/Wood.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Fuzzy_lines_rainbow.png</name>
+    <filename>/usr/share/backgrounds/Fuzzy_lines_rainbow.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Green Meadow</name>
+    <filename>/usr/share/backgrounds/mate/nature/GreenMeadow.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Lady Bird</name>
+    <filename>/usr/share/backgrounds/mate/nature/LadyBird.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Aqua</name>
+    <filename>/usr/share/backgrounds/mate/nature/Aqua.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Rain Drops</name>
+    <filename>/usr/share/backgrounds/mate/nature/RainDrops.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Silk</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Silk.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Flow</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Flow.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Sunset2.jpg</name>
+    <filename>/usr/share/backgrounds/Sunset2.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cosmos</name>
+    <filename>/usr/share/backgrounds/cosmos/background-1.xml</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Fuzzy_lines_purple.png</name>
+    <filename>/usr/share/backgrounds/Fuzzy_lines_purple.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Yellow Flower</name>
+    <filename>/usr/share/backgrounds/mate/nature/YellowFlower.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Kogaion_stars_wide.png</name>
+    <filename>/usr/share/backgrounds/Kogaion_stars_wide.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Kogaion_dark_wide.png</name>
+    <filename>/usr/share/backgrounds/Kogaion_dark_wide.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#3c3c8f8f2525</scolor>
+  </wallpaper>
+</wallpapers>
