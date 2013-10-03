@@ -10,9 +10,9 @@
 		<stringvalue>Sans 9</stringvalue>
 	</entry>
 	<entry name="icon_theme" mtime="1338970347" type="string">
-		<stringvalue>kogaion-elementary-light</stringvalue>
+		<stringvalue>Faenza-Kupertino-light</stringvalue>
 	</entry>
 	<entry name="gtk_theme" mtime="1338970275" type="string">
-		<stringvalue>Equinox Evolution Midnight</stringvalue>
+		<stringvalue>Kogaion-light</stringvalue>
 	</entry>
 </mateconf>
