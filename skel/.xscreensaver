@@ -38,7 +38,7 @@ selected:	-1
 
 textMode:	date
 textLiteral:	Sabayon Linux
-textFile:	/etc/rogentos-release
+textFile:	/etc/kogaion-release
 textProgram:	/usr/bin/fortune
 textURL:	http://rogentos.ro
 
