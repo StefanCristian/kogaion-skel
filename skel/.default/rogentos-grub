@@ -1,4 +1,0 @@
-# this file has been added by the Anaconda Installer
-# containing default installer bootloader arguments.
-# DO NOT EDIT NOR REMOVE THIS FILE DIRECTLY !!!
-GRUB_CMDLINE_LINUX="${GRUB_CMDLINE_LINUX} init=/linuxrc splash=silent,theme:rogentos radeon.modeset=1 vga=791 console=tty1 quiet dokeymap keymap=us domdadm resume=swap:UUID=c0db7458-2377-4e65-94f0-99eae86aa181 real_resume=UUID=c0db7458-2377-4e65-94f0-99eae86aa181 root=UUID=a7721f96-aa6b-4c16-85e9-afee2163de8c docrypt"
