@@ -1,4 +1,0 @@
-# this file has been added by the Anaconda Installer
-# containing default installer bootloader arguments.
-# DO NOT EDIT NOR REMOVE THIS FILE DIRECTLY !!!
-GRUB_CMDLINE_LINUX="${GRUB_CMDLINE_LINUX} init=/usr/lib/systemd/systemd theme:kogaion radeon.modeset=1 vga=791 console=tty1 quiet keymap=us domdadm docrypt"
