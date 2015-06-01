@@ -1,4 +1,5 @@
 [Configuration]
+Encoding=UTF-8
 AccelNewTab=<control><shift>t
 AccelNewWindow=<control><shift>n
 AccelDetachTab=<control><shift>d
